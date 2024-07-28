@@ -17,4 +17,4 @@ This project implements the Bubble sort algorithm in Java. Key features include:
 - **Console display**: Prints the original array, sorted array, and the number of sorting cycles to the console.
 
 ## Testing (JUnit)
-- JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities
+- JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities......
